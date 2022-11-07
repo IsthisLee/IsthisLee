@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 [학습 정리](https://s-organization-20.gitbook.io/isthis-archive/)
+
 <!--
 **IsthisLee/isthisLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
