@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👻
 
 - 🔭 [학습 정리](https://isthis.gitbook.io)
 
