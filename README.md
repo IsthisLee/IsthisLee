@@ -1,6 +1,6 @@
 ### Hi there 👻
 
-- 📓 [학습 정리](https://isthis.gitbook.io)
+- 📓 [학습 정리 사이트](https://isthis.gitbook.io)
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
