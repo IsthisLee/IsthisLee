@@ -1,6 +1,6 @@
 ### Hi there 👻
 
-- 📓 [학습 정리 사이트](https://isthis.gitbook.io)
+- <a href="https://isthis.gitbook.io" target="_blank">📓 학습 정리 사이트<a/>
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
