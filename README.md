@@ -1,7 +1,7 @@
 ### Hi there 👻
 
-- 📓 [학습 정리 사이트](https://isthis.gitbook.io/)
 - 🖥️ [Blog](https://isthislee.com)
+- 📓 [학습 정리 사이트](https://isthis.gitbook.io/)
 
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
