@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee&langs_count=10&layout=compact&theme=blue-green)](https://github.com/IsthisLee)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee)](https://github.com/IsthisLee)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee&count_bg=%232DAE92&title_bg=%234F7874&icon=mdnwebdocs.svg&icon_color=%23272727&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee%2F&count_bg=%2345B2AF&title_bg=%2335706B&icon=mdnwebdocs.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
