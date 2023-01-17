@@ -6,7 +6,7 @@
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee&count_bg=%2339C6A7&title_bg=%234F7874&icon=mdnwebdocs.svg&icon_color=%23272727&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee&count_bg=%232DAE92&title_bg=%234F7874&icon=mdnwebdocs.svg&icon_color=%23272727&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **IsthisLee/isthisLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
