@@ -7,7 +7,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee)](https://github.com/IsthisLee)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee)](https://github.com/IsthisLee)
 <!--
 **IsthisLee/isthisLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
