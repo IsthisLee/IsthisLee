@@ -4,9 +4,11 @@
 - 🌱 I’m currently learning
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee&count_bg=%232DAE92&title_bg=%234F7874&icon=mdnwebdocs.svg&icon_color=%23272727&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee)](https://github.com/IsthisLee)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee)](https://github.com/IsthisLee)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee)](https://github.com/IsthisLee)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee)](https://github.com/IsthisLee)
 <!--
 **IsthisLee/isthisLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
