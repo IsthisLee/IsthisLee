@@ -3,7 +3,8 @@
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)
+New [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)\
+Old [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://sub.isthislee.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee&langs_count=10&layout=compact&theme=blue-green)](https://github.com/IsthisLee)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=radical)](https://github.com/IsthisLee)
 
