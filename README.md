@@ -1,16 +1,25 @@
-### Hi there 👻
+### About me 
 
-- 🔭 I’m currently working
-- 🌱 I’m currently learning
-
-New [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)\
-Old [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://sub.isthislee.com/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee&langs_count=10&layout=compact&theme=blue-green)](https://github.com/IsthisLee)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=radical)](https://github.com/IsthisLee)
+<h1 align="left">Hi, This is Geonhee Lee 👻</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsthisLee%2F&count_bg=%2345B2AF&title_bg=%2335706B&icon=mdnwebdocs.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+- 🔭 I’m currently working
+- 🌱 I’m currently learning
+- 📫 How to reach me rjsgmldnwn@gmail.com
+
+✨ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://isthislee.com/)✨\
+🤢 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://isthislee.com/)](https://sub.isthislee.com/)🤢
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee&langs_count=10&layout=compact&theme=dafault)](https://github.com/IsthisLee) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=default)](https://github.com/IsthisLee)
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthislee&" alt="isthislee" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isthislee" alt="isthislee" /></a> </p>
 <!--
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=radical)](https://github.com/IsthisLee)
