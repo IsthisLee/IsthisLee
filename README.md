@@ -20,7 +20,7 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthislee&" alt="isthislee" /></p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isthislee" alt="isthislee" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isthislee" alt="isthislee" /></a> </p> -->
 <!--
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=radical)](https://github.com/IsthisLee)
