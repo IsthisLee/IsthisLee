@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsthisLee&langs_count=10&layout=compact&theme=dark)](https://github.com/IsthisLee) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsthisLee&show_icons=true&theme=dark)](https://github.com/IsthisLee)
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthislee&" alt="isthislee" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isthislee&" alt="isthislee" /></p> --> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isthislee" alt="isthislee" /></a> </p> -->
 <!--
